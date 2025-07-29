@@ -1,0 +1,22 @@
+# Node modules and frontend build
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+
+# Java backend build artifacts
+/backend/target/
+/backend/.env
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
